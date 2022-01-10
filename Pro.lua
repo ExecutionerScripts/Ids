@@ -1,6 +1,1 @@
-local displayname
-local star = Instance.new("StringValue",Workspace)
-star.Name = "Star"
-star.Value = "😎"
- sethiddenproperty(game:GetService("Workspace").Players.Bignene33.Humanoid,"DisplayName",game:GetService("Workspace").Value.Value) 
-
+local admins = {"588496545","2693087388","1812266361","1140675880","1570098650"}
